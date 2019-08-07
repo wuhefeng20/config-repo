@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4b3fb4-d36b-4561-ac29-93b5ff888842" name="Default" comment="" />
+    <list default="true" id="de4b3fb4-d36b-4561-ac29-93b5ff888842" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,11 +20,11 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="application1.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application1.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application1.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state>
+              <caret column="16" selection-start-column="16" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -32,7 +34,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file leaf-file-name="application1-dev.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="application1-dev.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
@@ -58,6 +60,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/main/resources/search.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/application1-dev.properties" />
+        <option value="$PROJECT_DIR$/src/main/resources/application1.properties" />
       </list>
     </option>
   </component>
@@ -70,7 +73,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="-7" />
     <option name="y" value="9" />
     <option name="width" value="1918" />
@@ -81,7 +84,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,14 +115,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring-cloud-config-admin/c8cd7470-1f8a-4ca2-b936-bdc2f86ee860" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -201,12 +204,13 @@
       <updated>1564800867160</updated>
       <workItem from="1564800870323" duration="274000" />
       <workItem from="1564802072897" duration="2805000" />
-      <workItem from="1564818502737" duration="2842000" />
+      <workItem from="1564818502737" duration="3715000" />
+      <workItem from="1564826681585" duration="612000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5921000" />
+    <option name="totallyTimeSpent" value="7406000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -218,7 +222,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="9" width="1918" height="1038" extended-state="0" />
+    <frame x="-7" y="9" width="1918" height="1038" extended-state="1" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49786323" weight="0.32914287" />
@@ -228,20 +232,20 @@
       <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.525641" side_tool="true" weight="0.23362446" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="8" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32914287" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.4957265" visible="true" weight="0.32914287" />
+      <window_info anchor="bottom" id="Run" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.4957265" visible="true" weight="0.32951945" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4675768" visible="true" weight="0.2426869" />
       <window_info anchor="bottom" id="Run with VisualVM" order="1" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.4684838" visible="true" weight="0.23943663" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="6" sideWeight="0.5315162" side_tool="true" visible="true" weight="0.23943663" />
+      <window_info id="Structure" order="6" sideWeight="0.5324232" side_tool="true" visible="true" weight="0.2426869" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
-      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info id="Favorites" order="5" sideWeight="0.5099715" side_tool="true" weight="0.25320512" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="2" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -263,18 +267,22 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application1.properties">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application2-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application2-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -295,9 +303,6 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application2-dev.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application1.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
@@ -305,10 +310,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application2-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application2-dev.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application1.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" selection-start-column="16" selection-end-column="16" />
         </state>
       </provider>
     </entry>
