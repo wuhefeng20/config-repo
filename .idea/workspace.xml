@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de4b3fb4-d36b-4561-ac29-93b5ff888842" name="Default" comment="" />
+    <list default="true" id="de4b3fb4-d36b-4561-ac29-93b5ff888842" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application1-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application1-dev.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,8 +37,8 @@
       <file leaf-file-name="application1-dev.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="22">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+            <state relative-caret-position="66">
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -204,12 +206,12 @@
       <workItem from="1564802072897" duration="2805000" />
       <workItem from="1564818502737" duration="3715000" />
       <workItem from="1564826681585" duration="612000" />
-      <workItem from="1565185070760" duration="274000" />
+      <workItem from="1565185070760" duration="573000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7680000" />
+    <option name="totallyTimeSpent" value="7979000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -221,25 +223,25 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="9" width="1918" height="1038" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="12" sideWeight="0.49786323" weight="0.32914287" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.51516795" side_tool="true" visible="true" weight="0.3638444" />
+      <window_info anchor="bottom" id="Event Log" order="3" sideWeight="0.51555794" side_tool="true" visible="true" weight="0.4753363" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="4" weight="0.32914287" />
       <window_info anchor="bottom" id="Run" order="8" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.48483208" visible="true" weight="0.3638444" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="5" sideWeight="0.48444206" visible="true" weight="0.4753363" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.46582735" visible="true" weight="0.24593717" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.46581197" visible="true" weight="0.24356224" />
       <window_info anchor="bottom" id="Run with VisualVM" order="1" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info id="Structure" order="6" sideWeight="0.53417265" side_tool="true" visible="true" weight="0.24593717" />
+      <window_info id="Structure" order="6" sideWeight="0.53418803" side_tool="true" visible="true" weight="0.24356224" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="9" />
@@ -350,8 +352,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application1-dev.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state relative-caret-position="66">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
         </state>
       </provider>
     </entry>
